@@ -65,8 +65,12 @@ Industrial-grade AI waste management solution.
 ### ✺ The Impact Loop
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amg555&show_icons=true&theme=transparent&hide_border=true&title_color=45A1FF&icon_color=45A1FF&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amg555&layout=compact&theme=transparent&hide_border=true&title_color=45A1FF&text_color=ffffff" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amg555&show_icons=true&theme=tokyonight&hide_border=true&title_color=45A1FF&icon_color=45A1FF&text_color=ffffff&bg_color=00000000&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amg555&layout=compact&theme=tokyonight&hide_border=true&title_color=45A1FF&text_color=ffffff&bg_color=00000000" alt="Top Languages" height="180px" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amg555&theme=tokyonight&hide_border=true&stroke=45A1FF&ring=45A1FF&fire=45A1FF&currStreakLabel=45A1FF&background=00000000" alt="GitHub Streak" />
 </div>
 
 ---
