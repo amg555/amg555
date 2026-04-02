@@ -1,4 +1,4 @@
-# <p align="center">✦ AI-Native Full-Stack Architect ✦</p>
+# <p align="center">✦ AI-Native Full-Stack Engineer ✦</p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it%20faster.&author=Amal%20George" alt="Quote" />
