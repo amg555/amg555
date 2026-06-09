@@ -1,4 +1,4 @@
-# <p align="center">✦ AI-Native Full-Stack Engineer ✦</p>
+# <p align="center">✦ AI-Native Full-Stack Product Engineer ✦</p>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it%20faster.&author=Amal%20George" alt="Quote" />
@@ -55,7 +55,7 @@ Industrial-grade AI waste management solution.
 | :--- | :--- |
 | **Architectures** | `SaaS (Multi-tenant)` • `Distributed Systems` • `Microservices` • `Edge Computing` |
 | **AI & Agents** | • `vLLM` • `RAG Pipelines` • `LangChain` |
-| **Frameworks** | `Next.js 15` • `React Native / Expo` • `FastAPI` • `Node.js` • `Flutter` |
+| **Frameworks** | `Next.js 15` • `React Native / Expo` • `Nuxt.js`• `FastAPI` • `Node.js` • `Flutter` |
 | **Infrastructure** | `PostgreSQL` • `Redis` • `Cloudflare Edge` • `Supabase` • `Docker` |
 
 </div>
