@@ -7,7 +7,7 @@
 ---
 
 ### ✺ The Core Vision
-I am an **AI-Native Full-Stack Engineer** obsessed with the **future of execution**. I don't just build products; I build them at the speed of thought by mastering the **Human-AI collaborative loop**. 
+I am an **AI-Native Full-Stack Product Engineer** obsessed with the **future of execution**. I don't just build products; I build them at the speed of thought by mastering the **Human-AI collaborative loop**. 
 
 For me, **AI-Assisted Coding** isn't just a tool—it's a superpower that allows me to architect complex, enterprise-ready systems (SaaS, Mobile, IoT) with surgical precision and unprecedented velocity. I am deeply passionate about pushing the boundaries of what a single developer, augmented by intelligence, can achieve.
 
