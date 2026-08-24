@@ -17,7 +17,7 @@ For me, **AI-Assisted Coding** isn't just a tool—it's a superpower that allows
 > "Modern engineering isn't just about writing code; it's about orchestrating intelligent agents to solve real-world scale problems."
 
 - **Intelligent Architecting:** Using LLMs to rapid-prototype edge cases and multi-tenant RLS policies.
-- **Augmented Development:** Leveraging Cursor, Copilot, and custom AI agents to maintain 10x shipping velocity.
+- **Augmented Development:** Leveraging Copilot, and custom AI agents to maintain 10x shipping velocity.
 - **Refined Engineering:** Human-led quality control and performance optimization for production-grade reliability.
 
 ---
