@@ -55,7 +55,7 @@ Industrial-grade AI waste management solution.
 | :--- | :--- |
 | **Architectures** | `SaaS (Multi-tenant)` • `Distributed Systems` • `Microservices` • `Edge Computing` |
 | **AI & Agents** | • `vLLM` • `RAG Pipelines` • `LangChain` |
-| **Frameworks** | `Next.js 15` • `React Native / Expo` • `Nuxt.js`• `FastAPI` • `Node.js` • `Flutter` |
+| **Frameworks** | `Next.js 15` • `React Native / Expo` • `Nuxt.js`• `FastAPI` • `Express.js` • `Flutter` |
 | **Infrastructure** | `PostgreSQL` • `Redis` • `Cloudflare Edge` • `Supabase` • `Docker` |
 
 </div>
