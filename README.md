@@ -43,7 +43,7 @@ AI-powered decision stress-testing platform for high-stakes scenarios.
 #### [✧ Smart Dustbin — IoT + Computer Vision](https://github.com/amg555/smart-dustbin)
 Industrial-grade AI waste management solution.
 - **Architecture:** **Python**, **TensorFlow**, **OpenCV**, and **Raspberry Pi**.
-- **Innovation:** Achieved **95% classification accuracy** for real-time waste segregation across multiple categories using edge computing.
+- **Innovation:** Achieved **75% classification accuracy** for real-time waste segregation across multiple categories using edge computing.
 
 ---
 
